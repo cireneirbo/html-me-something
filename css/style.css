@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(211, 211, 211);
+    margin: 70px;
+    border: 2px solid rgb(34, 34, 34);
+    padding: 30px; 
+}
+.paragraph-sectors {
+    /*background-color: rgb(49, 179, 103);*/
+    margin: 40px;
+    border: 2px solid rgb(34, 34, 34);
+    padding: 30px;
+    text-align: center; 
+     
+}
+
+.paragraph-sub-sectors {
+    background-color: rgb(198, 201, 199);
+    margin: 40px;
+    border: 4px solid rgb(23, 26, 23);
+    padding: 40px;
+    text-align: left;
+    opacity: 0.6;
+}
+
+h1 {
+    background-color: rgb(198, 201, 199);
+    margin: 20px;
+    border: 2px solid rgb(62, 63, 62);
+    padding: 20px;
+    text-align: center;
+    opacity: 0.6;
+}
+
+#guitar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    
+    
+}
+footer {
+    background-color: rgb(198, 201, 199);
+    margin: 20px;
+    border: 2px solid rgb(23, 26, 23);
+    padding: 20px;
+    text-align: left;
+    opacity: 0.8;
+}
+#chords-sector {
+    background-image: url(https://images.pexels.com/photos/813481/pexels-photo-813481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);  
+}
+#scales-sector {
+    background-image: url(https://storage.needpix.com/rsynced_images/epiphone-953254_1280.jpg);  
+}
+#fundamentals-sector {
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/23/15/35/acoustic-1853571_1280.jpg);  
+}
